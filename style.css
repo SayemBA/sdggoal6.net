@@ -1,0 +1,52 @@
+.banner {
+	width: 1295px;
+	background-color: lightgray;
+	padding: 30px;
+	background-
+}
+
+.head {
+	color: darkorange;
+	text-align: center;
+	font-size: 220%;
+}
+
+.goals {
+	float: right;
+	height: 285px;
+}
+
+.hed {
+	color: darkorange;
+	text-align: left;
+	font-size: 220%;
+}
+
+.peter {
+	font-size: 130%;
+}
+
+.sixth {
+	float: left;
+}
+
+.tagtwo {
+	line-height: 32px;
+}
+
+.lnk {
+	font-size: 25px;
+}
+
+.buton {
+	width: 160px;
+	height: 40px;
+	background-color: royalblue;
+	position: absolute;
+	left: 45%;
+	cursor: pointer;
+}
+
+.had {
+	color: blue;
+}
